@@ -18,7 +18,8 @@ Matching the button with the color will:
 •	Increasing the score
 The game is over when the timer runs out. Reaction Beats includes a start screen, play state, and game-over screen.
 
-
+Live Demo
+https://spd504.github.io/reaction-beats/Reaction%20Beats/index.html
 
 Video 
 https://youtu.be/_ujmzejQ2og
